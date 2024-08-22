@@ -15,7 +15,7 @@ navItemEls.forEach(navItemEl => {
   });
 });
 
-/*
+
 // Shop Section (carousel)
 const imageWrapperShop = document.querySelector('.image-wrapper');
 const imageItemsShop = document.querySelectorAll('.image-wrapper > *');
@@ -50,7 +50,7 @@ function scrollingShop() {
   imageWrapperShop.style.left = `-${totalScrollShop * widthElShop}px`;
   imageWrapperShop.style.transition = '.3s';
 }
-*/
+
 
 
 // Partner Section (carousel)
