@@ -340,13 +340,13 @@ body {
 }
 
 .services-box:nth-child(1) {
-  background-image: url(images/SistemeAudio.png);
+  background-image: url('images/SistemeAudio.png');
   background-repeat: no-repeat;
   background-size: 900px;
 }
 
 .services-box:nth-child(2) {
-  background-image: url(images/Navigatii.png);
+  background-image: url('images/Navigatii.png');
   background-repeat: no-repeat;
   background-size: 900px;
 }
