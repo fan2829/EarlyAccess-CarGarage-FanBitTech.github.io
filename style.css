@@ -413,13 +413,13 @@ body {
 }
 
 .services-box1:nth-child(1) {
-  background-image: url(/images/Iluminare.png);
+  background-image: url('images/Iluminare.png');
   background-repeat: no-repeat;
   background-size: 900px;
 }
 
 .services-box1:nth-child(2) {
-  background-image: url(/images/Insonorizare.png);
+  background-image: url('images/Insonorizare.png');
   background-repeat: no-repeat;
   background-size: 900px;
 }
